@@ -1,4 +1,4 @@
-# quotes-Timeo-3
+# quotes-Nassim-3
 # Programming Quote Generator
 
 A python program that generates programming quotes and jokes.

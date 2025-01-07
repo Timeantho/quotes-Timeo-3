@@ -5,6 +5,7 @@ def menu():
     print("1. Random quote")
     print("2. All quotes")
     print("3. Exit")
+    print("4. Number")
 
 def main():
     while True:
@@ -19,9 +20,12 @@ def main():
             view_quotes(quotes)
         elif choice == "3":
             print("Good bye...")
+        elif choice == "4":
+            print("display_quotes(choice, quotes)")
             break
         else:
             print("Invalid input")
+        
 
 if __name__ == "__main__":
     main()

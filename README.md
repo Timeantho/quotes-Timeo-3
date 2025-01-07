@@ -1,4 +1,3 @@
-# quotes-Jessy-3
 # Programming Quote Generator
 
 A python program that generates programming quotes and jokes.
